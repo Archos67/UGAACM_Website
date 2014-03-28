@@ -1,0 +1,27 @@
+/* Not really anything here for now */
+#navBar
+{
+    border:1px solid #ccc;
+    border-width:1px 0;
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    text-align:center;
+    overflow:hidden;
+}
+#navBar li
+{
+    display:inline;
+    width:80px;
+}
+#navBar a
+{
+    color:green;
+    display:inline-block;
+    width:60px;
+    text-decoration:none;
+}
+#navBar a:hover
+{
+    background-color: #D8D8D8;
+}
