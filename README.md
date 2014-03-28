@@ -7,7 +7,9 @@ To future webmaster,
 Here are several links I think you will find helpful:
 
 https://egghead.io // for learning AngularJS 
+
 http://css-tricks.com/ // for CSS... tricks 
+
 http://nodeschool.io/ // Learn github, Javascript, node.js 
 
 Also, be sure to minify your code.
